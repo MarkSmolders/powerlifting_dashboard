@@ -1,0 +1,13 @@
+[project]
+name = "powerlifting_dashboard"
+version = "0.1.0"
+description = "Powerlifting analytics and improvement prediction dashboard"
+authors = [
+    { name = "Mark Smolders", email = "marksmolders09@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["powerlifting_dashboard"]

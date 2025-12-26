@@ -14,3 +14,6 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Egg-indo
+src/powerlifting_dashboard.egg-info/
